@@ -56,4 +56,3 @@ Thanks for using this app made by 3bdellatif :)
 
 ---
 
-Feel free to customize this README file further according to your preferences or add additional details as needed.
